@@ -1,0 +1,16 @@
+{
+  "name": "chartjs-training",
+  "version": "1.0.0",
+  "description": "source",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel"
+  },
+  "author": "AShakulia",
+  "license": "ISC",
+  "dependencies": {
+    "@cubejs-client/core": "^0.33.12",
+    "chart.js": "^4.3.0",
+    "parcel": "^2.8.3"
+  }
+}
